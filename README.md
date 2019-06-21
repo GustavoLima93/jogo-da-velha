@@ -4,6 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Screenshots
 ![Screenshot 1](https://wellbe-opensource-assets.s3.amazonaws.com/Screenshot+from+2019-06-21+16-03-17.png)
+![Screenshot 2](https://wellbe-opensource-assets.s3.amazonaws.com/Screenshot+from+2019-06-21+16-10-08.png)
+![Screenshot 3](https://wellbe-opensource-assets.s3.amazonaws.com/Screenshot+from+2019-06-21+16-10-24.png)
+![Screenshot 4](https://wellbe-opensource-assets.s3.amazonaws.com/Screenshot+from+2019-06-21+16-10-41.png)
 
 ## Development server
 
